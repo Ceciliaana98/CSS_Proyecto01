@@ -8,11 +8,37 @@ color: rgb(43, 226, 134);
 .p-1 {
 color: red;
 }
+
 a {
     color: purple;
     text-decoration: underline;
 }
+
 img {
     width: 500px;
 }
 
+#newdiv{
+    background-color: rgb(246, 246, 246);
+    padding: 10px;
+    border: solid black 1px;
+    margin: 200px;
+    
+}
+
+#newh5{
+    font-family: sans-serif;
+    font-style: italic;
+    background-color: purple;
+    padding: 30px;
+    border: 5px;
+    margin: 10px;
+}
+
+#newbut{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border: 5px;
+    margin: 10px;
+}
